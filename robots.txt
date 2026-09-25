@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.mlsdgdx.cn/sitemap.xml
